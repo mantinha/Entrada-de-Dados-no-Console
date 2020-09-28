@@ -6,7 +6,9 @@
 <!--ts-->   
    * [Como usar](#como-usar)
       * Somente é necessário instanciar a classe
-      * MeuConsole console = new MeuConsole();
+      ```
+      MeuConsole console = new MeuConsole();
+      ```
 <!--te-->
 
 ### 🛠 Tecnologias
